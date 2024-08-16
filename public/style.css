@@ -1,0 +1,115 @@
+/* Estilos gerais do body */
+body {
+    font-family: 'Minecraft', sans-serif;
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Permite rolagem vertical */
+    min-height: 100vh; /* Garante que o body tenha pelo menos a altura da viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    overflow-x: hidden; /* Evita rolagem horizontal */
+}
+
+/* Estilos do header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #FFD700; /* Cor dourada para destaque */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra para maior destaque */
+}
+
+header h3 {
+    font-size: 1.2em;
+    margin: 5px 0;
+    color: #FFFFFF; /* Cor branca para o subtítulo */
+}
+
+/* Estilos do contêiner de login */
+.login-container {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    width: 300px;
+    box-sizing: border-box; /* Inclui padding e border na largura total */
+}
+
+/* Estilos dos formulários */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilos dos inputs e botões */
+input[type="text"], button {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    box-sizing: border-box; /* Inclui padding e border na largura total */
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Estilos para a caixa de perguntas */
+#answers-form {
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo escuro com transparência */
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px; /* Limita a largura máxima */
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra para destaque */
+}
+
+/* Estilos das perguntas */
+.question label {
+    font-size: 1.5em; /* Pergunta maior */
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* Estilos das opções */
+.answer {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.answer:last-child {
+    margin-bottom: 10px;
+}
+
+.answer input[type="radio"] {
+    width: 20px; /* Tamanho maior para os checkboxes */
+    height: 20px;
+    margin-right: 10px;
+}
+
+.question .answer-label {
+    font-size: 1em; /* Tamanho das respostas */
+    font-weight: unset;
+    margin: 0;
+}

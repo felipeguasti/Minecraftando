@@ -1,0 +1,153 @@
+{
+    "P0LO": {
+      "questions": [
+        {
+          "question": "Qual é a característica climática principal da tundra?",
+          "options": ["Calor extremo e seca", "Frio extremo e permafrost", "Temperaturas moderadas e chuvas constantes", "Clima tropical e umidade alta"],
+          "answer": "Frio extremo e permafrost"
+        },
+        {
+          "question": "Que tipo de vegetação é comum na tundra?",
+          "options": ["Palmeiras e árvores altas", "Musgos e líquenes", "Cactos e arbustos espinhosos", "Gramíneas e arbustos floridos"],
+          "answer": "Musgos e líquenes"
+        },
+        {
+          "question": "Qual animal é frequentemente encontrado na tundra e é conhecido por sua pelagem branca?",
+          "options": ["Leão", "Elefante", "Urso Polar", "Tigre"],
+          "answer": "Urso Polar"
+        },
+        {
+          "question": "Em que estação do ano a tundra recebe a maior parte da sua precipitação?",
+          "options": ["Inverno", "Primavera", "Verão", "Outono"],
+          "answer": "Verão"
+        },
+        {
+          "question": "Qual é a principal característica do solo na tundra?",
+          "options": ["Areia solta", "Solo argiloso", "Permafrost", "Solo fértil e rico"],
+          "answer": "Permafrost"
+        }
+      ],
+      "successMessage": "Você completou esta fase! Continue para o próximo nível. O primeiro número é 8"
+    },
+    "ILH4": {
+      "questions": [
+        {
+          "question": "Qual é a principal composição dos icebergs?",
+          "options": ["Gelo de água do mar", "Gelo de água doce", "Gelo artificial", "Gelo derretido"],
+          "answer": "Gelo de água doce"
+        },
+        {
+          "question": "Qual região do planeta é mais conhecida por ter icebergs?",
+          "options": ["América do Sul", "África", "Antártica e Ártica", "Ásia"],
+          "answer": "Antártica e Ártica"
+        },
+        {
+          "question": "Como os icebergs se formam?",
+          "options": ["A partir da evaporação da água", "A partir do congelamento de água do mar", "A partir da quebra de geleiras", "A partir do congelamento de água de lagoas"],
+          "answer": "A partir da quebra de geleiras"
+        },
+        {
+          "question": "Qual fenômeno pode causar o afundamento parcial dos icebergs?",
+          "options": ["Aumento da pressão atmosférica", "Derretimento devido a temperaturas mais altas", "Ventos fortes", "Chuvas intensas"],
+          "answer": "Derretimento devido a temperaturas mais altas"
+        },
+        {
+          "question": "Qual é a diferença entre icebergs e gelo marinho?",
+          "options": ["Icebergs são formados no oceano, enquanto gelo marinho é formado em lagos", "Icebergs são de água salgada, enquanto gelo marinho é de água doce", "Icebergs vêm de geleiras e têm água doce, enquanto gelo marinho forma-se a partir da água do mar e é salgado", "Não há diferença, são o mesmo tipo de gelo"],
+          "answer": "Icebergs vêm de geleiras e têm água doce, enquanto gelo marinho forma-se a partir da água do mar e é salgado"
+        }
+      ],
+      "successMessage": "Você completou esta fase! Prepare-se para novos desafios. O segundo número é 4"
+    },
+    "3DY4": {
+      "questions": [
+        {
+          "question": "Qual é a principal característica dos campos?",
+          "options": ["Vegetação arbustiva e árvores altas", "Áreas abertas com vegetação rasteira e gramíneas", "Solo árido e areia", "Florestas densas e úmidas"],
+          "answer": "Áreas abertas com vegetação rasteira e gramíneas"
+        },
+        {
+          "question": "Qual animal é frequentemente encontrado em grandes quantidades nos campos?",
+          "options": ["Elefantes", "Ursos", "Gado, como vacas e ovelhas", "Tubarões"],
+          "answer": "Gado, como vacas e ovelhas"
+        },
+        {
+          "question": "Que tipo de clima é típico para os campos?",
+          "options": ["Clima tropical e úmido", "Clima temperado, com estações bem definidas", "Clima polar e frio extremo", "Clima desértico e seco"],
+          "answer": "Clima temperado, com estações bem definidas"
+        },
+        {
+          "question": "Qual é a principal utilização dos campos em áreas agrícolas?",
+          "options": ["Cultivo de frutas exóticas", "Cultivo de grãos e pastagens para animais", "Produção de vinho", "Mineração de minerais"],
+          "answer": "Cultivo de grãos e pastagens para animais"
+        },
+        {
+          "question": "Quais são os principais tipos de vegetação encontrados nos campos?",
+          "options": ["Cactos e suculentas", "Árvores tropicais e palmeiras", "Gramíneas e plantas herbáceas", "Musgos e líquenes"],
+          "answer": "Gramíneas e plantas herbáceas"
+        }
+      ],
+      "successMessage": "Você completou esta fase! Parabéns pelo progresso! O terceiro número é 7"
+    },
+    "V0E4": {
+      "questions": [
+        {
+          "question": "Qual é a principal característica dos campos alagados ou pântanos?",
+          "options": ["Solo árido e seco", "Solo saturado de água e vegetação aquática", "Clima quente e seco", "Florestas densas e secas"],
+          "answer": "Solo saturado de água e vegetação aquática"
+        },
+        {
+          "question": "Qual tipo de vegetação é comum em pântanos?",
+          "options": ["Cactos e arbustos espinhosos", "Juncos, gramíneas aquáticas e lírios", "Árvores de coníferas e pinheiros", "Palmeiras e vegetação tropical"],
+          "answer": "Juncos, gramíneas aquáticas e lírios"
+        },
+        {
+          "question": "Qual é o principal tipo de solo encontrado em pântanos?",
+          "options": ["Solo arenoso e seco", "Solo argiloso e alagadiço, com alta concentração de matéria orgânica", "Solo fértil e rico em nutrientes", "Solo rochoso e irregular"],
+          "answer": "Solo argiloso e alagadiço, com alta concentração de matéria orgânica"
+        },
+        {
+          "question": "Que tipo de fauna é frequentemente encontrada em pântanos?",
+          "options": ["Animais de desertos, como cobras", "Animais da tundra, como ursos polares", "Rãs, crocodilos e aves aquáticas", "Animais de montanhas, como cabras"],
+          "answer": "Rãs, crocodilos e aves aquáticas"
+        },
+        {
+          "question": "Qual é a importância ecológica dos pântanos?",
+          "options": ["Eles fornecem madeira para construção", "Eles atuam como filtros naturais de água e regulam o nível de água", "Eles são ricos em minerais", "Eles são usados principalmente para cultivo de grãos"],
+          "answer": "Eles atuam como filtros naturais de água e regulam o nível de água"
+        }
+      ],
+      "successMessage": "Você completou esta fase! Ótimo trabalho! Diga Lodo Misterioso e ganhe um presente"
+    },
+    "D1AD3": {
+      "questions": [
+        {
+          "question": "Qual é a principal característica climática dos desertos?",
+          "options": ["Alta umidade e temperaturas moderadas", "Baixa precipitação e temperaturas extremas", "Clima temperado e chuvas regulares", "Frio extremo e neve constante"],
+          "answer": "Baixa precipitação e temperaturas extremas"
+        },
+        {
+          "question": "Qual é a vegetação típica encontrada nos desertos?",
+          "options": ["Cactos e plantas xerófitas", "Árvores altas e folhas largas", "Gramíneas e arbustos verdes", "Musgos e líquenes"],
+          "answer": "Cactos e plantas xerófitas"
+        },
+        {
+          "question": "Qual é o animal conhecido por sua capacidade de sobreviver com pouca água no deserto?",
+          "options": ["Leão", "Camelo", "Pinguim", "Gorila"],
+          "answer": "Camelo"
+        },
+        {
+          "question": "Qual é o fenômeno que pode causar tempestades de areia nos desertos?",
+          "options": ["Chuvas intensas", "Ventos fortes que erodem e transportam partículas de areia", "Aumento da umidade", "Congelamento da água"],
+          "answer": "Ventos fortes que erodem e transportam partículas de areia"
+        },
+        {
+          "question": "Qual é uma adaptação comum das plantas desérticas para sobreviver em condições áridas?",
+          "options": ["Armazenamento de água em tecidos especializados e folhas reduzidas", "Crescimento rápido em resposta a chuvas", "Folhas largas e grandes para captar mais luz", "Produção de flores o ano todo"],
+          "answer": "Armazenamento de água em tecidos especializados e folhas reduzidas"
+        }
+      ],
+      "successMessage": "Você completou esta fase! Excelente trabalho! O quarto número é 2"
+    }
+  }
+  
